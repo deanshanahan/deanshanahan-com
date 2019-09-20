@@ -17,10 +17,6 @@
     "start": "node bin/start",
     "test": "echo \"No tests defined!\" && exit 0"
   },
-  "devDependencies": {
-    "eslint": "^4.5.0",
-    "eslint-config-airbnb-base": "^11.3.2",
-    "eslint-plugin-import": "^2.7.0"
-  },
+  "devDependencies": {},
   "author": "Dean Shanahan"
 }
